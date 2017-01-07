@@ -52,6 +52,6 @@ SERVICE_PASSWORD=$ADMIN_PASSWORD
 
 > http://IP_DEBIAN/
 
-:cloud: El usuario es admin y la clave fue definida en el archivo local.conf
+:cloud: El usuario es admin y la clave fue definida en el archivo local.conf (ADMIN_PASSWORD=)
 
 
