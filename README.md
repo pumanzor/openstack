@@ -8,7 +8,7 @@
 
 > apt-get update
 
-:three:Crear el usuario stack
+:three: Crear el usuario stack
 
 > adduser stack
 
