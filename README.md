@@ -1,6 +1,6 @@
 ##Openstack (devstack) on Debian 8
 
-###Ultra rapid installation of openstack for fully functional testing enviorement, please install on stand alone machine or dedicated
+####Ultra rapid installation of openstack for fully functional testing enviorement, please install on stand alone machine or dedicated vm
 
 :one: Instalar debian 8 sistema base y openssh server
 
