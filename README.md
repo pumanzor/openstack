@@ -51,6 +51,6 @@ SERVICE_PASSWORD=$ADMIN_PASSWORD
 
 > http://IP_DEBIAN/
 
-:keycap_ten: :one: El usuario es admin y la clave fue definida en el archivo local.conf
+:keycap_eleven: El usuario es admin y la clave fue definida en el archivo local.conf
 
 
