@@ -1,4 +1,4 @@
-##openstack on Debian 8
+##Openstack on Debian 8
 
 ###Ultra rapid installation
 
@@ -48,7 +48,7 @@ SERVICE_PASSWORD=$ADMIN_PASSWORD
 
 > ./stack.sh
 
-:keycap_ten: Una vez que termine la instalacion (varios minutos incluso horas si el equipo no posee bastante cpu y ram) iniciar desde un navegador poniendo la direccion IP donde fue instalado Debian 8
+:keycap_ten: Una vez que termine la instalacion (varios minutos incluso horas si el equipo no posee bastante cpu y ram asi que recomiendo ir por una :pizza: o una :beer:) iniciar desde un navegador poniendo la direccion IP donde fue instalado Debian 8
 
 > http://IP_DEBIAN/
 
