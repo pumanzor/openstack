@@ -47,10 +47,10 @@ SERVICE_PASSWORD=$ADMIN_PASSWORD
 
 > ./stack.sh
 
-:ten: Una vez que termine la instalacion (varios minutos incluso horas si el equipo no posee bastante cpu y ram) iniciar desde un navegador poniendo la direccion IP donde fue instalado Debian 8
+:keycap_ten: Una vez que termine la instalacion (varios minutos incluso horas si el equipo no posee bastante cpu y ram) iniciar desde un navegador poniendo la direccion IP donde fue instalado Debian 8
 
 > http://IP_DEBIAN/
 
-:eleven: El usuario es admin y la clave fue definida en el archivo local.conf
+:keycap_ten: :one: El usuario es admin y la clave fue definida en el archivo local.conf
 
 
