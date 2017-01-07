@@ -27,6 +27,7 @@ Ultra rapid installation
 :seven: Download devstack
 
 > git clone https://git.openstack.org/openstack-dev/devstack
+
 > cd devstack
 
 :eight: Dentro de este directorio crear un archivo con el nombre `local.conf` y poner lo siguiente dentro de el:
