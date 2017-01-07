@@ -1,6 +1,6 @@
 ##openstack on Debian 8
 
-Ultra rapid installation
+###Ultra rapid installation
 
 :one: Instalar debian 8 sistema base y openssh server
 
